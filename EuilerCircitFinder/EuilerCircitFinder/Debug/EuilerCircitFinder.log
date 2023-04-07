@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ASUS\Desktop\Algoritems\EuilerCircitFinder\EuilerCircitFinder\main.cpp(28,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  EuilerCircitFinder.vcxproj -> C:\Users\ASUS\Desktop\Algoritems\EuilerCircitFinder\Debug\EuilerCircitFinder.exe
